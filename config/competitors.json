@@ -1,0 +1,105 @@
+{
+  "direct_competitors": [
+    "lvt.com",
+    "ecamsecure.com",
+    "virtualguard.com",
+    "remotesecuritysolutions.com"
+  ],
+  "content_competitors": [
+    "lvt.com",
+    "ecamsecure.com",
+    "virtualguard.com",
+    "remotesecuritysolutions.com",
+    "securitymagazine.com",
+    "sdmmag.com",
+    "securityinfowatch.com",
+    "asisonline.org"
+  ],
+  "bofu_keywords": [
+    "remote guarding",
+    "remote guarding services",
+    "best remote guarding companies",
+    "remote guarding cost",
+    "live video monitoring services",
+    "24/7 video surveillance monitoring",
+    "commercial security monitoring",
+    "virtual doorman service",
+    "LVT alternatives",
+    "ECAM alternatives",
+    "Stealth Monitoring alternatives",
+    "Virtual Guard alternatives",
+    "OHZ Security reviews",
+    "OHZ Security vs LVT",
+    "remote guarding pricing"
+  ],
+  "mofu_keywords": [
+    "how does remote guarding work",
+    "remote guarding vs security guards",
+    "construction site security best practices",
+    "parking lot security solutions",
+    "commercial property security guide",
+    "business video surveillance systems",
+    "how to choose a security monitoring company",
+    "security cameras for business",
+    "auto dealership security",
+    "apartment building security systems"
+  ],
+  "alternative_keywords": [
+    "LVT alternatives",
+    "ECAM alternatives",
+    "Stealth Monitoring alternatives",
+    "Virtual Guard alternatives",
+    "Remote Security Solutions alternatives"
+  ],
+  "key_queries": [
+    "remote guarding",
+    "remote guarding services",
+    "best remote guarding companies",
+    "live video monitoring",
+    "OHZ Security"
+  ],
+  "relevant_terms": [
+    "remote guarding",
+    "live video monitoring",
+    "video surveillance",
+    "security monitoring",
+    "two-way audio",
+    "threat detection",
+    "active deterrence",
+    "virtual doorman",
+    "security agents",
+    "AI security",
+    "commercial security",
+    "construction site security",
+    "parking lot security",
+    "auto dealership security",
+    "monitoring center",
+    "Five Diamond",
+    "best",
+    "review",
+    "pricing",
+    "alternative",
+    "cost",
+    "comparison"
+  ],
+  "skip_terms": [
+    "home security",
+    "home alarm",
+    "ring doorbell",
+    "nest camera",
+    "DIY security",
+    "personal safety",
+    "self defense",
+    "bodyguard",
+    "celebrity",
+    "reddit"
+  ],
+  "topic_patterns": {
+    "Service Features": ["remote guarding", "video monitoring", "virtual doorman", "event-based", "two-way audio", "AI detection"],
+    "Pricing": ["price", "pricing", "cost", "plan", "quote", "budget", "savings", "ROI"],
+    "Tutorials": ["how to", "guide", "tutorial", "step", "setup", "best practices", "checklist"],
+    "Comparisons": ["vs", "versus", "compare", "comparison", "alternative", "best", "top"],
+    "Industries": ["construction", "parking", "retail", "dealership", "apartment", "hotel", "industrial", "cannabis", "healthcare"],
+    "Security Concepts": ["surveillance", "monitoring", "deterrence", "prevention", "detection", "response", "patrol"]
+  }
+}

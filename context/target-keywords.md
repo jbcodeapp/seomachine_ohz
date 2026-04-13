@@ -1,15 +1,15 @@
 # Target Keywords & Topic Clusters
 
-This document organizes Castos's target keywords by topic cluster for strategic content planning and SEO optimization.
+This document organizes OHZ Security's target keywords by topic cluster for strategic content planning and SEO optimization.
 
-## Instructions
-Fill in this template with your target keywords organized by topic cluster. Update regularly based on keyword research and content performance.
+**Last Updated**: April 2026
+**Next Review**: July 2026
 
 ---
 
 ## Topic Cluster Structure
 
-Each topic cluster should have:
+Each topic cluster has:
 - **Pillar Keyword**: Main, high-volume keyword (typically competitive)
 - **Cluster Keywords**: 5-10 related keywords (subtopics)
 - **Long-Tail Keywords**: 10-15 specific, lower-volume phrases
@@ -17,319 +17,468 @@ Each topic cluster should have:
 
 ---
 
-## Cluster 1: Podcast Hosting
+## Cluster 1: Remote Guarding
 
 ### Pillar Keyword
-- **Keyword**: podcast hosting
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL of main guide]
+- **Keyword**: remote guarding
+- **Search Volume**: High
+- **Difficulty**: High
+- **Intent**: Commercial / Informational
+- **Current Ranking**: To track
+- **Pillar Content URL**: To create — "The Complete Guide to Remote Guarding"
 
 ### Cluster Keywords (Subtopics)
-1. **best podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL if exists, or "Not yet created"]
+1. **remote guarding services**
+   - Intent: Commercial
+   - Content: Service page + supporting blog content
 
-2. **podcast hosting platform**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
+2. **remote guarding vs security guards**
+   - Intent: Commercial investigation
+   - Content: Comparison guide (high priority)
 
-3. **podcast hosting comparison**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
+3. **remote guarding companies**
+   - Intent: Commercial
+   - Content: Positioning article / listicle
 
-4. **free podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
+4. **remote guarding cost**
+   - Intent: Commercial
+   - Content: Pricing/ROI guide
 
-5. **podcast hosting pricing**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
+5. **remote guarding for construction sites**
+   - Intent: Commercial
+   - Content: Industry-specific guide
 
-[Add 5-10 cluster keywords total]
+6. **remote guarding for retail**
+   - Intent: Commercial
+   - Content: Industry-specific guide
+
+7. **what is remote guarding**
+   - Intent: Informational
+   - Content: Educational guide (top of funnel)
+
+8. **remote guarding benefits**
+   - Intent: Informational / Commercial
+   - Content: Benefits-focused article
 
 ### Long-Tail Keywords
-- how to choose a podcast host
-- podcast hosting for beginners
-- podcast hosting with unlimited bandwidth
-- podcast hosting that includes a website
-- difference between podcast hosting and website hosting
-- what to look for in a podcast host
-- podcast hosting for multiple shows
-- [Add 10-15 long-tail variations]
+- how does remote guarding work
+- is remote guarding effective
+- remote guarding for small business
+- remote guarding for parking lots
+- 24/7 remote guarding services
+- remote guarding with two-way audio
+- remote guarding vs alarm monitoring
+- best remote guarding companies 2026
+- remote guarding for apartment buildings
+- remote guarding for auto dealerships
+- affordable remote guarding solutions
+- remote guarding for industrial sites
+- remote guarding with AI detection
+- remote guarding for hotels
 
 ### Related Questions (People Also Ask)
-- What is podcast hosting?
-- Do I need podcast hosting?
-- How much does podcast hosting cost?
-- Can I host my podcast for free?
-- [Add questions from PAA boxes]
+- What is remote guarding?
+- How does remote guarding work?
+- How much does remote guarding cost?
+- Is remote guarding better than security guards?
+- What is the difference between remote guarding and video monitoring?
+- Can remote guarding replace on-site security?
 
 ---
 
-## Cluster 2: Podcast Analytics
+## Cluster 2: Video Surveillance Monitoring
 
 ### Pillar Keyword
-- **Keyword**: podcast analytics
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL or "To create"]
+- **Keyword**: live video monitoring
+- **Search Volume**: High
+- **Difficulty**: High
+- **Intent**: Commercial / Informational
+- **Current Ranking**: To track
+- **Pillar Content URL**: To create
 
 ### Cluster Keywords (Subtopics)
-1. **podcast metrics**
-2. **podcast download statistics**
-3. **podcast listener data**
-4. **podcast performance tracking**
-5. **podcast growth metrics**
-[Continue with 5-10 cluster keywords]
+1. **live video monitoring services**
+2. **24/7 video surveillance monitoring**
+3. **remote video monitoring**
+4. **commercial video surveillance monitoring**
+5. **video monitoring for business**
+6. **AI video monitoring**
+7. **video surveillance monitoring companies**
+8. **proactive video monitoring**
 
 ### Long-Tail Keywords
-- how to track podcast analytics
-- understanding podcast download numbers
-- most important podcast metrics
-- how to measure podcast success
-- podcast analytics tools
-[Add 10-15 long-tail variations]
+- live video monitoring for construction sites
+- 24/7 video monitoring with live guards
+- AI-powered video monitoring for business
+- commercial property video monitoring
+- video surveillance monitoring cost
+- best video monitoring services for business
+- video monitoring vs recorded surveillance
+- real-time video surveillance for retail
+- professional video monitoring companies near me
+- live video surveillance monitoring with audio
 
 ### Related Questions
-[Add PAA questions]
+- What is live video monitoring?
+- How much does 24/7 video monitoring cost?
+- Is live video monitoring worth it?
+- What's the difference between video monitoring and surveillance cameras?
 
 ---
 
-## Cluster 3: Podcast Growth
+## Cluster 3: Business Security Systems
 
 ### Pillar Keyword
-- **Keyword**: grow podcast audience
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Keyword**: business security systems
+- **Search Volume**: Very High
+- **Difficulty**: Very High
+- **Intent**: Commercial
+- **Current Ranking**: To track
+- **Pillar Content URL**: To create — comprehensive guide
 
-### Cluster Keywords
-1. **podcast growth strategies**
-2. **increase podcast downloads**
-3. **podcast marketing**
-4. **podcast promotion**
-5. **podcast audience development**
-[Continue with cluster keywords]
+### Cluster Keywords (Subtopics)
+1. **commercial security systems**
+2. **business surveillance systems**
+3. **business security cameras**
+4. **commercial security cameras**
+5. **business security solutions**
+6. **security systems for small business**
+7. **commercial property security**
+8. **business security monitoring**
 
 ### Long-Tail Keywords
-- how to get more podcast listeners
-- promote your podcast free
-- grow podcast audience fast
-- podcast growth tips for beginners
-[Add long-tail variations]
+- best security systems for small business 2026
+- commercial security camera systems with monitoring
+- how to choose a business security system
+- business security systems with remote monitoring
+- affordable commercial security systems
+- security systems for retail stores
+- security camera systems for warehouses
+- business security systems with AI
+- commercial security systems with two-way audio
+- best security cameras for business reviewed
 
 ### Related Questions
-[Add PAA questions]
+- What is the best security system for a business?
+- How much does a commercial security system cost?
+- Do I need a monitored security system for my business?
+- What features should a business security system have?
 
 ---
 
-## Cluster 4: Podcast Monetization
+## Cluster 4: Construction Site Security
 
 ### Pillar Keyword
-- **Keyword**: podcast monetization
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial/Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Keyword**: construction site security
+- **Search Volume**: Medium-High
+- **Difficulty**: Medium
+- **Intent**: Commercial / Informational
+- **Current Ranking**: To track (OHZ has existing blog content)
+- **Pillar Content URL**: https://ohzsecurity.com/security/construction-site-security-risks/
 
-### Cluster Keywords
-1. **how to monetize a podcast**
-2. **podcast advertising**
-3. **podcast sponsorships**
-4. **make money podcasting**
-5. **podcast revenue streams**
-[Continue]
+### Cluster Keywords (Subtopics)
+1. **construction site security cameras**
+2. **construction site theft prevention**
+3. **construction site surveillance**
+4. **construction site security services**
+5. **construction site monitoring**
+6. **jobsite security solutions**
+7. **construction equipment theft prevention**
 
 ### Long-Tail Keywords
-[Add 10-15 variations]
+- how to prevent theft on construction sites
+- construction site security camera systems
+- remote monitoring for construction sites
+- construction site security best practices
+- construction site trespassing prevention
+- temporary security cameras for construction
+- construction site security at night
+- how to secure a construction site after hours
+- construction site vandalism prevention
+- construction site security cost
 
 ### Related Questions
-[Add PAA questions]
+- How do you secure a construction site?
+- What is the best security for construction sites?
+- How much does construction site security cost?
+- Do construction sites need 24/7 security?
 
 ---
 
-## Cluster 5: Starting a Podcast
+## Cluster 5: Parking Security
 
 ### Pillar Keyword
-- **Keyword**: how to start a podcast
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Keyword**: parking lot security
+- **Search Volume**: Medium-High
+- **Difficulty**: Medium
+- **Intent**: Commercial / Informational
+- **Current Ranking**: To track (OHZ has existing blog content)
+- **Pillar Content URL**: https://ohzsecurity.com/security/parking-security-guide/
 
-### Cluster Keywords
-1. **podcast equipment**
-2. **podcast recording software**
-3. **podcast editing**
-4. **podcast launch checklist**
-5. **podcast setup**
-[Continue]
+### Cluster Keywords (Subtopics)
+1. **parking garage security**
+2. **parking lot security cameras**
+3. **parking lot surveillance**
+4. **parking lot security services**
+5. **parking garage security cameras**
+6. **parking lot security guards vs cameras**
+7. **parking lot monitoring**
 
 ### Long-Tail Keywords
-[Add variations]
+- how to improve parking lot security
+- best security cameras for parking lots
+- parking garage security solutions
+- parking lot crime prevention
+- parking lot security lighting and cameras
+- remote monitoring for parking garages
+- parking lot security for retail
+- apartment complex parking lot security
+- parking garage security systems
+- hotel parking lot security
 
 ### Related Questions
-[Add PAA questions]
+- How do you secure a parking lot?
+- Do parking lots need security cameras?
+- How much does parking lot security cost?
+- What is the best parking lot security system?
 
 ---
 
-## Cluster 6: [Additional Cluster]
+## Cluster 6: Auto Dealership Security
 
-[Follow same format for:]
-- Podcast SEO
-- Podcast Distribution
-- Podcast Equipment
-- Podcast Editing
-- Podcast Formats
-- Private Podcasting
-- Podcast for Business
-- etc.
+### Pillar Keyword
+- **Keyword**: auto dealership security
+- **Search Volume**: Medium
+- **Difficulty**: Medium
+- **Intent**: Commercial
+- **Current Ranking**: To track (OHZ has existing blog content)
+- **Pillar Content URL**: https://ohzsecurity.com/security/automotive-security-services/
+
+### Cluster Keywords (Subtopics)
+1. **car dealership security cameras**
+2. **auto dealership surveillance**
+3. **car lot security**
+4. **dealership theft prevention**
+5. **catalytic converter theft prevention dealership**
+6. **car dealership security systems**
+
+### Long-Tail Keywords
+- how to prevent car theft at dealerships
+- best security cameras for car dealerships
+- car dealership security at night
+- remote monitoring for auto dealerships
+- car lot vandalism prevention
+- dealership security guard vs cameras
+- auto dealership security solutions 2026
+- how to secure a car dealership
+
+### Related Questions
+- How do car dealerships prevent theft?
+- What security do car dealerships use?
+- How much does dealership security cost?
+- Do car dealerships have security cameras?
+
+---
+
+## Cluster 7: Virtual Doorman / Access Control
+
+### Pillar Keyword
+- **Keyword**: virtual doorman
+- **Search Volume**: Medium
+- **Difficulty**: Low-Medium
+- **Intent**: Commercial
+- **Current Ranking**: To track
+- **Pillar Content URL**: https://ohzsecurity.com/ (Virtual Doorman service page)
+
+### Cluster Keywords (Subtopics)
+1. **virtual doorman service**
+2. **remote doorman**
+3. **virtual concierge building**
+4. **apartment building access control**
+5. **remote access control for buildings**
+6. **virtual lobby attendant**
+
+### Long-Tail Keywords
+- virtual doorman for apartment buildings
+- virtual doorman cost vs real doorman
+- remote doorman service for condos
+- building access control with video
+- virtual doorman NYC
+- how does virtual doorman work
+- virtual doorman for office buildings
+- remote visitor verification system
+- virtual doorman for small apartment buildings
+
+### Related Questions
+- What is a virtual doorman?
+- How much does a virtual doorman cost?
+- Is a virtual doorman as good as a real doorman?
+- How does virtual doorman access control work?
+
+---
+
+## Cluster 8: Security by Industry
+
+### Pillar Keywords (multiple)
+- **Keyword**: retail security solutions | hotel security systems | office building security | industrial security | cannabis facility security
+- **Intent**: Commercial
+- **Strategy**: Create individual guides for each industry OHZ serves
+
+### Industry-Specific Keywords to Target
+1. **Retail**: retail store security, shopping center security, retail theft prevention, organized retail crime prevention
+2. **Hotels**: hotel security systems, hotel surveillance, hotel parking lot security, hospitality security solutions
+3. **Office Buildings**: office building security systems, commercial office security, office building access control
+4. **Industrial**: industrial site security, factory security systems, critical infrastructure security, power grid security
+5. **Cannabis**: cannabis facility security, dispensary security requirements, cannabis grow facility security
+6. **Apartment Complexes**: apartment building security, apartment complex surveillance, residential security systems
+7. **Healthcare**: hospital security systems, healthcare facility security
+8. **Government**: government building security, federal building security systems
+
+---
+
+## Cluster 9: Security Comparisons & Alternatives
+
+### Keywords
+1. **remote guarding vs security guards**
+   - Intent: Commercial investigation
+   - Priority: HIGH — captures buyers actively comparing options
+
+2. **LVT alternatives** / **ECAM alternatives** / **Virtual Guard alternatives**
+   - Intent: Commercial
+   - Priority: Medium — captures brand-aware switchers
+
+3. **OHZ Security vs LVT**
+   - Intent: Commercial
+   - Priority: Medium — brand comparison searches
+
+4. **best remote guarding companies**
+   - Intent: Commercial
+   - Priority: HIGH — captures active buyers
+
+5. **remote guarding vs alarm monitoring**
+   - Intent: Informational / Commercial
+   - Priority: Medium
+
+6. **security guards vs security cameras**
+   - Intent: Informational
+   - Priority: Medium — educational content opportunity
 
 ---
 
 ## Seasonal/Trending Keywords
 
 ### Q1 Keywords (Jan-Mar)
-- New year podcast goals
-- Podcast trends 2025
-- [Add seasonal opportunities]
+- Security trends 2026
+- New year security assessment
+- Winter construction site security
+- Post-holiday retail theft analysis
 
 ### Q2 Keywords (Apr-Jun)
-[Add seasonal keywords]
+- Construction season security
+- Spring security system upgrades
+- Summer event security planning
+- Construction site theft prevention spring
 
 ### Q3 Keywords (Jul-Sep)
-[Add seasonal keywords]
+- Back-to-school campus security
+- Summer construction site security
+- Parking lot safety summer
+- Hurricane season security preparation
 
 ### Q4 Keywords (Oct-Dec)
-[Add seasonal keywords]
+- Holiday retail security
+- Year-end security budget planning
+- Black Friday security preparation
+- Construction site winterization security
+- Holiday package theft prevention
 
 ---
 
 ## Competitor Keyword Gaps
 
-Track keywords where competitors rank but Castos doesn't:
+### LVT
+- **remote guarding for small business** (LVT targets enterprise only)
+- **virtual doorman** (LVT doesn't offer this)
+- **hotel security** (LVT doesn't target hospitality)
+- **apartment building security** (LVT focuses on commercial/industrial)
 
-### Competitor: [Name]
-- **Keyword**: [keyword they rank for]
-  - Their Position: [rank]
-  - Castos Position: [rank or "Not ranking"]
-  - Opportunity: [High/Medium/Low]
-  - Action: [Create content, optimize existing, etc.]
+### ECAM
+- **How-to security guides** (ECAM has no educational content)
+- **remote guarding cost comparison** (ECAM doesn't publish pricing content)
+- **security for cannabis facilities** (ECAM doesn't target this industry)
+- **virtual doorman services** (ECAM doesn't offer this)
 
-[Add more competitors and gaps]
+### Virtual Guard
+- **comprehensive security guides** (Virtual Guard has minimal blog content)
+- **AI security technology explained** (Virtual Guard doesn't educate on this)
+- **remote guarding certifications** (OHZ's Five Diamond certification is a differentiator)
+
+### RSS
+- All keywords outside supply chain/logistics are gaps for RSS
 
 ---
 
 ## Keyword Opportunity Pipeline
 
-### High Priority (Create Soon)
-Keywords with high volume, achievable difficulty, strong business value:
-
-1. **Keyword**: [keyword]
-   - Volume: [searches]
-   - Difficulty: [score]
-   - Intent: [type]
-   - Why Priority: [strategic reason]
-   - Action: [Create pillar content / cluster article / etc.]
-
-[List 5-10 high-priority keywords]
+### High Priority (Create Next)
+1. **remote guarding vs security guards** — High volume, strong buyer intent, no competitor has definitive content
+2. **what is remote guarding** — Informational pillar, captures top-of-funnel researchers
+3. **best remote guarding companies 2026** — Commercial intent, listicle format
+4. **construction site security guide** — Build on existing blog content
+5. **parking lot security solutions** — Build on existing blog content
 
 ### Medium Priority (Next Quarter)
-[List keywords to target in next 3 months]
+1. Virtual doorman guide and comparison content
+2. Auto dealership security comprehensive guide
+3. Industry-specific guides (hotels, cannabis, industrial)
+4. Remote guarding cost/ROI calculator content
+5. AI in security: practical guide for property managers
 
 ### Low Priority (Future Consideration)
-[List keywords for future content planning]
-
----
-
-## Keyword Tracking & Performance
-
-### Top Performing Keywords
-Keywords where Castos ranks in positions 1-10:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Trend: [↑ Rising / → Stable / ↓ Declining]
-
-[List current winners]
-
-### Keywords to Improve
-Keywords ranking 11-20 (page 2) with opportunity:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Action Needed: [Update content, build links, etc.]
-
-[List improvement opportunities]
-
----
-
-## Keyword Cannibalization Check
-
-Track multiple pages targeting same/similar keywords:
-
-### Potential Cannibalization Issues
-
-**Keyword**: [keyword]
-- Page 1: [URL] - Position [rank]
-- Page 2: [URL] - Position [rank]
-- **Issue**: Both pages competing for same keyword
-- **Solution**: [Consolidate, differentiate, redirect, etc.]
-
-[Monitor and document conflicts]
+1. "Security guards vs security cameras" educational content
+2. Security compliance and insurance guides
+3. Smart building security integration guides
+4. Emergency response planning guides
+5. Security technology buyer's guide
 
 ---
 
 ## LSI & Semantic Keywords
 
-Common related terms to include across podcasting content:
+### Security Industry Terms
+- surveillance
+- monitoring center
+- threat detection
+- perimeter security
+- access control
+- intrusion detection
+- security assessment
+- incident response
+- crime prevention
+- deterrence
 
-### Podcast Industry Terms
-- RSS feed
-- podcast directory
-- podcast app
-- podcast player
-- episode
-- show notes
-- audio content
-- podcast network
-[Add more]
+### Technology Terms
+- AI-powered security
+- video analytics
+- motion detection
+- two-way audio
+- cloud-based surveillance
+- IP cameras
+- PTZ cameras
+- smart detection
+- behavioral analytics
+- real-time alerts
 
-### Podcast Creation Terms
-- recording
-- editing
-- post-production
-- audio quality
-- microphone
-- podcast equipment
-[Add more]
-
-### Podcast Growth Terms
-- downloads
-- listeners
-- audience
-- subscribers
-- engagement
-- retention
-[Add more]
+### Business/ROI Terms
+- security ROI
+- cost savings
+- liability reduction
+- insurance compliance
+- asset protection
+- risk mitigation
+- property protection
+- loss prevention
+- shrinkage reduction
 
 ---
 
@@ -354,22 +503,8 @@ Common related terms to include across podcasting content:
 2. Prioritize high-value, achievable keywords
 3. Build out topic clusters systematically
 4. Balance pillar content with cluster articles
-5. Track keyword performance over time
+5. Incorporate seasonal keywords as appropriate
 
 ---
 
-## Maintenance
-
-**Last Updated**: [Date]
-**Next Review**: [Date - quarterly recommended]
-
-**Regular Updates**:
-- Add new keyword opportunities monthly
-- Track ranking changes monthly
-- Update volumes/difficulty quarterly
-- Review competitor gaps quarterly
-- Refine clusters based on performance
-
----
-
-**Note**: This is a living document. As you conduct keyword research, track performance, and identify new opportunities, update this file to keep your SEO strategy aligned with your content creation.
+**Note**: This is a living document. Update with actual search volume data from DataForSEO, Ahrefs, or SEMrush as API access is configured. Track ranking changes monthly and refine clusters based on performance.

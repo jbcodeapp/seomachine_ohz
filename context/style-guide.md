@@ -1,9 +1,9 @@
-# Castos Style Guide
+# OHZ Security Style Guide
 
-This guide defines writing conventions, formatting standards, and editorial guidelines for all Castos content.
+This guide defines writing conventions, formatting standards, and editorial guidelines for all OHZ Security content.
 
-## Instructions
-Fill in this template with Castos-specific style preferences. Update as the style guide evolves.
+**Style Guide Version**: 1.0
+**Last Updated**: April 2026
 
 ---
 
@@ -12,20 +12,22 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Capitalization
 
 **Headlines & Subheadings**:
-- [ ] Title Case (Capitalize Major Words)
-- [ ] Sentence case (Only capitalize first word)
-- **Decision**: [Choose one and document here]
+- **Decision**: Title Case (Capitalize Major Words)
+- Example: "How Remote Guarding Protects Construction Sites After Hours"
 
-**Product Names**:
-- Castos: [Always capitalized]
-- Seriously Simple Podcasting: [Capitalization style]
-- [Other Castos products]: [Style]
+**Product/Service Names**:
+- OHZ Security: Always capitalize "OHZ" (all caps) and "Security"
+- Remote Guarding: Capitalize when referring to OHZ's service; lowercase for the general concept
+- Event-Based Security: Capitalize as a proper OHZ service name
+- Virtual Doorman: Always capitalize (branded service name)
+- OHZ Intelligence: Always capitalize (branded platform name)
 
 **Industry Terms**:
-- podcast / Podcast: [Choose one]
-- podcaster / Podcaster: [Choose one]
-- RSS / rss: [RSS (always caps)]
-- [Add other common terms]
+- AI / artificial intelligence: Use "AI" in most cases; spell out on first use in long-form content
+- CCTV: Always all caps
+- Two-way audio: Lowercase (not a proper noun)
+- Remote guarding: Lowercase when used generically; capitalize when referring to OHZ's service name
+- Five Diamond: Always capitalize (TMA certification designation)
 
 ### Numbers
 
@@ -33,56 +35,58 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 - Spell out: One through nine
 - Use numerals: 10 and above
 - Exceptions:
-  - Percentages: Always use numerals (5%, 50%)
-  - Money: Always use numerals ($5, $500)
-  - Measurements: Always use numerals (5 GB, 50 MB)
-  - Lists/stats: Always use numerals for scannability
+  - Percentages: Always use numerals (5%, 70%)
+  - Money: Always use numerals ($500, $5,000)
+  - Time: Always use numerals (24/7, 12 seconds)
+  - Statistics/results: Always use numerals for impact (3x faster, 50-70% savings)
 
 **Large Numbers**:
 - 1,000+ (use comma)
 - 1 million (spell out million, billion, etc.)
-- $5,000 or $5K? [Choose convention]
+- $5,000 or $5K: Use full numbers for formal content; $5K acceptable in casual blog posts
 
 ### Punctuation
 
 **Oxford Comma**:
-- [ ] Yes (A, B, and C)
-- [ ] No (A, B and C)
-- **Decision**: [Choose and document]
+- **Decision**: Yes (A, B, and C)
+- Example: "We protect retail stores, construction sites, and parking garages."
 
 **Em Dashes**:
-- Style: — (em dash, no spaces) or - - (hyphens with spaces)
-- Usage: For parenthetical statements or emphasis
-- Example: "Podcast analytics—when used correctly—drive better content decisions."
+- Style: — (em dash, no spaces)
+- Usage: For emphasis or to set off parenthetical statements
+- Example: "Remote guarding—when implemented correctly—reduces incidents by up to 70%."
 
 **Quotation Marks**:
-- "Straight quotes" or "Curly quotes"?
-- **Decision**: [Choose one]
+- Use straight quotes in web content
+- Use for direct client testimonials and quoted speech
 
 **Ellipses**:
 - Three dots: ...
-- Spacing: no spaces before or after
-- Use sparingly: Primarily for omitted text in quotes
+- Use sparingly: Only for omitted text in quotes, never as a stylistic pause
 
 ### Abbreviations & Acronyms
 
 **First Use**:
 - Spell out on first use, acronym in parentheses
-- Example: "Really Simple Syndication (RSS) feeds distribute..."
-- Exceptions for universally known: SEO, URL, CTA
+- Example: "The Monitoring Association (TMA) awards Five Diamond certification to..."
+- Exceptions for universally known: AI, CCTV, SEO, URL, ROI
 
-**Common Podcasting Acronyms**:
-- RSS: Really Simple Syndication
-- DAI: Dynamic Ad Insertion
-- SEO: Search Engine Optimization
-- IAB: Interactive Advertising Bureau
-- [Add others as needed]
+**Common Security Industry Acronyms**:
+- TMA: The Monitoring Association
+- UL: Underwriters Laboratories
+- BBB: Better Business Bureau
+- AI: Artificial Intelligence
+- CCTV: Closed-Circuit Television
+- IP: Internet Protocol (cameras)
+- PTZ: Pan-Tilt-Zoom (cameras)
+- VMS: Video Management System
+- LPR: License Plate Recognition
 
 **Latin Abbreviations**:
-- e.g. (for example): [Use or avoid?]
-- i.e. (that is): [Use or avoid?]
-- etc. (and so forth): [Use or avoid?]
-- **Decision**: [Generally avoid in favor of plain English]
+- **Decision**: Avoid in favor of plain English
+- Use "for example" instead of "e.g."
+- Use "that is" instead of "i.e."
+- Use "and more" or "among others" instead of "etc."
 
 ---
 
@@ -91,28 +95,32 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Preferred Terms
 
 **Say This** → **Not That**:
-- podcast creators → podcasters
-- podcast hosting → podcast storage
-- listeners → subscribers
-- audio quality → sound quality
-- show notes → episode notes / shownotes
-- podcast episode → podcast show (episode is unit, show is series)
-- analytics → stats
-- monetize → monetise (US spelling)
-- [Add Castos-specific preferences]
+- remote guarding → remote monitoring (guarding = active, monitoring = passive)
+- security agents → security guards (agents conveys professionalism)
+- threat detection → motion detection (detection of actual threats, not just movement)
+- active deterrence → passive surveillance (emphasizes intervention)
+- monitoring center → call center (professional security operations)
+- two-way audio → speaker system (emphasizes two-way communication)
+- incident → event or occurrence (incident conveys seriousness)
+- property → site or location (property is more encompassing)
+- client → customer (client implies ongoing professional relationship)
+- security assessment → security audit (assessment is less intimidating)
 
 ### Words to Avoid
-- Avoid jargon without explanation
-- Avoid "very", "really", "actually" (usually unnecessary)
-- Avoid passive constructions when active is clearer
-- Avoid "click here" or "read more" (use descriptive links)
-- [Add other words/phrases to avoid]
+- "State-of-the-art" (overused, means nothing)
+- "Cutting-edge" (same as above)
+- "Leverage" (corporate jargon)
+- "Utilize" (use "use")
+- "Synergy" or "synergistic" (corporate speak)
+- "Robust" (vague)
+- "Comprehensive" alone (specify what's included)
+- "Click here" or "read more" (use descriptive link text)
+- "Solutions" without specificity (always specify what kind)
 
 ### Inclusive Language
 - Use gender-neutral language ("they" instead of "he/she")
-- "Podcast creator" or "podcaster" instead of gendered terms
-- Avoid idioms that may not translate globally
-- Be mindful of accessibility in descriptions
+- "Security agents" or "operators" instead of gendered terms
+- Use accessible descriptions (avoid relying solely on color references)
 
 ---
 
@@ -121,74 +129,44 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Text Formatting
 
 **Bold**:
-- Use for: Key concepts, important takeaways, emphasis
+- Use for: Key statistics, important takeaways, service names on first mention
 - Don't overuse: If everything is bold, nothing stands out
-- Example: "**Keyword density** should be 1-2% for optimal results."
+- Example: "Clients see an average **70% reduction** in security incidents."
 
 **Italics**:
-- Use for: Emphasis (sparingly), titles of works, foreign phrases
-- Example: "The term *podcast* combines 'iPod' and 'broadcast'."
-
-**Underline**:
-- Generally avoid (reserve for links)
+- Use for: Emphasis (sparingly), titles of publications
+- Example: "The question isn't *whether* you need security—it's *what kind*."
 
 **ALL CAPS**:
-- Avoid except for standard acronyms (RSS, SEO, URL)
+- Avoid except for standard acronyms (AI, CCTV, TMA, UL, BBB)
 
 ### Lists
 
 **Bulleted Lists**:
-- Use for: Non-sequential items, features, benefits
-- Capitalization: [Sentence case or Title Case?]
-- Punctuation: [Period at end of each item or no punctuation?]
-- **Decision**:
-  - Capitalize first word
-  - Period if complete sentence, no period if fragment
-  - Parallel structure (all sentences or all fragments)
+- Use for: Features, benefits, non-sequential items
+- Capitalize first word of each item
+- Period if complete sentence, no period if fragment
+- Maintain parallel structure
 
 **Numbered Lists**:
-- Use for: Sequential steps, rankings, ordered priorities
+- Use for: Sequential steps, ranked items, processes
 - Format: 1. 2. 3. (with period after number)
 - Same capitalization and punctuation rules as bullets
 
 **Nested Lists**:
 - Maximum 2 levels deep for readability
-- Use different markers for sub-items
 
 ### Links
 
 **Anchor Text**:
-- Descriptive (tell reader where they're going)
-- Keyword-rich when possible
+- Descriptive and keyword-rich when possible
 - 2-5 words typically
-- ✅ "Learn more about podcast SEO"
-- ❌ "Click here"
+- "Learn about our remote guarding services"
+- Never "Click here"
 
 **Link Formatting**:
-- Color: [Default blue or Castos brand color?]
-- Underline: [Yes/No]
-- Open in new tab: [Only for external links]
-
-### Code & Technical Elements
-
-**Inline Code**:
-- Use backticks for: URLs, file names, code snippets
-- Example: "Your RSS feed URL is `https://feeds.castos.com/...`"
-
-**Code Blocks**:
-- Use for: Multi-line code, configuration examples
-- Include language identifier for syntax highlighting
-
-### Callout Boxes / Asides
-
-**When to Use**:
-- Important notes or warnings
-- Pro tips or expert insights
-- Key takeaways or summaries
-
-**Format**:
-- [Define how to format: blockquote, box, highlighted section?]
-- Example style to be determined
+- Open in new tab: Only for external links
+- Internal links open in same tab
 
 ---
 
@@ -196,14 +174,14 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 
 ### Article Introduction
 **Standard Structure** (150-250 words):
-1. **Hook** (1-2 sentences): Grab attention with question, statistic, or bold statement
-2. **Problem** (2-3 sentences): What challenge or question does this address?
-3. **Promise** (2-3 sentences): What will reader learn/achieve?
-4. **Credibility** (optional, 1-2 sentences): Why trust this source?
+1. **Hook** (1-2 sentences): Lead with a problem, statistic, or bold claim
+2. **Problem** (2-3 sentences): What security challenge does this address?
+3. **Promise** (2-3 sentences): What will the reader learn or gain?
+4. **Credibility** (optional, 1-2 sentences): Why trust OHZ on this topic?
 
 **Keyword Placement**:
-- Must include primary keyword in first 100 words
-- Natural integration, not forced
+- Primary keyword must appear in first 100 words
+- Natural integration—never forced
 
 ### Section Length
 - **Minimum**: 150 words per section
@@ -213,9 +191,9 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Conclusion
 **Standard Structure** (150-250 words):
 1. **Recap** (3-5 bullet points or paragraph): Key takeaways
-2. **Action** (1-2 sentences): What should reader do next?
-3. **CTA** (1-2 sentences): Call-to-action (trial, resource, related content)
-4. **Forward-looking** (optional, 1 sentence): Encouraging final thought
+2. **Action** (1-2 sentences): What should the reader do next?
+3. **CTA** (1-2 sentences): Get a quote, request assessment, contact us
+4. **Forward-looking** (optional, 1 sentence): Encouraging final thought about their security
 
 ---
 
@@ -224,7 +202,7 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Meta Titles
 - 50-60 characters including spaces
 - Include primary keyword
-- Include "| Castos" if space allows
+- Include "| OHZ Security" if space allows
 - No ending punctuation
 
 ### Meta Descriptions
@@ -238,31 +216,27 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 - Hyphens between words
 - Include primary keyword
 - 3-5 words ideal
-- Format: `/blog/primary-keyword-phrase`
+- Format: `/security/primary-keyword-phrase` or `/blog/primary-keyword-phrase`
 
 ### Alt Text
 - Describe what image shows
 - Include keyword naturally if relevant
 - 125 characters or less
-- No "image of" or "picture of" (implied)
+- No "image of" or "picture of"
 
 ---
 
 ## Dates & Time
 
 **Date Format**:
-- Month DD, YYYY (January 15, 2025)
-- Or: DD Month YYYY (15 January 2025)
-- **Decision**: [Choose one]
+- **Decision**: Month DD, YYYY (April 13, 2026)
 
 **Time**:
-- 12-hour format with a.m./p.m.: 3:00 p.m.
-- Or: 24-hour format: 15:00
-- **Decision**: [Choose one]
+- **Decision**: 12-hour format with a.m./p.m.: 3:00 p.m.
+- 24/7 is acceptable as a standard term (no need to spell out)
 
 **Time Zones**:
-- Specify when relevant: "3:00 p.m. EST"
-- Or use: "3:00 p.m. Eastern Time"
+- Specify when relevant: "3:00 p.m. ET"
 
 ---
 
@@ -272,64 +246,37 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 - Always cite statistics with sources
 - Format: "According to [Source], [statistic]."
 - Link to original source when possible
-- Include year of data: "In 2024, podcast listeners reached..."
+- Include year of data: "In 2025, commercial property crime increased by..."
 
 ### Presenting Numbers
-- Round large numbers for readability: "1.2 million" not "1,234,567"
-- Use % symbol: 15% (not "percent")
+- Round large numbers: "1.2 million" not "1,234,567"
+- Use % symbol: 70% (not "percent")
 - Use $ for money: $500 (not "dollars")
 - Include commas: 10,000 not 10000
 
 ---
 
-## Images & Media
-
-### Image Captions
-- [ ] Required for all images
-- [ ] Optional, only when needed for context
-- **Decision**: [Choose one]
-
-**Caption Style**:
-- Sentence case
-- End with period if complete sentence
-- Placement: Below image
-
-### Screenshots
-- Include relevant screenshots when helpful
-- Crop to show only relevant portion
-- Add arrows/highlights if needed to draw attention
-- Alt text should describe what's shown
-
-### Charts & Graphs
-- Include data visualization when it helps understanding
-- Keep design simple and clean
-- Always provide context in surrounding text
-- Alt text should describe the key finding, not just "chart"
-
----
-
 ## Brand-Specific Guidelines
 
-### Castos Product References
+### OHZ Product References
 
-**Castos Platform**:
-- "Castos" (not "the Castos platform" unless needed for clarity)
-- "Castos analytics dashboard"
-- [Add other product-specific terms]
+**OHZ Security**:
+- First mention: "OHZ Security" (full name)
+- Subsequent mentions: "OHZ" is acceptable
+- Never: "the OHZ platform" or "OHZ systems" without context
 
-**Features**:
-- [List how to refer to specific features]
-- [Capitalization conventions for features]
+**Services**:
+- Remote Guarding (capitalize as service name)
+- Event-Based Security (capitalize as service name)
+- Virtual Doorman (capitalize as service name)
+- OHZ Intelligence (capitalize as platform name)
 
 ### Competitor References
-- [ ] Name competitors directly when relevant
-- [ ] Use generic terms ("other podcast hosts")
-- **Decision**: [Choose approach]
-
-**If Naming Competitors**:
+- **Decision**: Name competitors directly when contextually relevant (comparisons, alternatives content)
 - Be fair and factual
 - No disparaging language
-- Focus on differentiation, not criticism
+- Focus on OHZ's strengths rather than competitor weaknesses
+- For general content, use "other remote guarding providers" or "traditional security companies"
 
 ---
 
@@ -345,24 +292,24 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 - Write at 8th-10th grade level
 - Define technical terms on first use
 - Use short sentences and paragraphs
-- Break complex ideas into digestible chunks
+- Break complex security concepts into digestible chunks
 
 ---
 
 ## Voice & Tone Reminders
 
 ### Core Voice Characteristics
-1. Professional yet approachable
-2. Educational and empowering
-3. Podcast creator advocate
-4. Technically accurate but accessible
-5. Results and growth-focused
+1. Authoritative and trustworthy
+2. Direct and action-oriented
+3. Human-first technology messaging
+4. Client-centric and consultative
+5. Proven and results-driven
 
 ### Tone Variations
-- **How-to content**: Instructive, step-by-step, encouraging
-- **Strategic content**: Authoritative, experienced, actionable
-- **Industry news**: Insightful, analytical, forward-looking
-- **Product content**: Benefit-focused, clear, honest
+- **How-to content**: Clear, instructional, empowering
+- **Strategic content**: Authoritative, data-backed, forward-thinking
+- **Industry news**: Analytical, insightful, practical
+- **Service/product content**: Benefit-focused, specific, honest
 
 ---
 
@@ -373,47 +320,39 @@ Before publishing any content:
 **Grammar & Mechanics**:
 - [ ] Spelling checked
 - [ ] Grammar checked
-- [ ] Punctuation correct (Oxford comma, em dashes, etc.)
+- [ ] Punctuation correct (Oxford comma, em dashes)
 - [ ] Numbers formatted consistently
-- [ ] Dates formatted correctly
+- [ ] Dates formatted correctly (Month DD, YYYY)
 
 **Style**:
-- [ ] Follows capitalization guidelines
-- [ ] Uses preferred terminology
+- [ ] Follows capitalization guidelines (OHZ, service names)
+- [ ] Uses preferred terminology (agents not guards, remote guarding not monitoring)
 - [ ] Consistent formatting (bold, italics, lists)
 - [ ] Links are descriptive
-- [ ] Voice and tone appropriate
+- [ ] Voice and tone appropriate for content type
 
 **Structure**:
 - [ ] Strong introduction (hook, problem, promise)
 - [ ] Logical section flow
-- [ ] Proper heading hierarchy
+- [ ] Proper heading hierarchy (H1→H2→H3)
 - [ ] Effective conclusion with CTA
 - [ ] Appropriate section lengths
 
 **SEO**:
-- [ ] Keyword integrated naturally
-- [ ] Meta elements optimized
-- [ ] Internal and external links included
+- [ ] Keyword integrated naturally in first 100 words
+- [ ] Meta elements optimized (title 50-60 chars, description 150-160 chars)
+- [ ] Internal and external links included (3-5 internal, 2-3 external)
 - [ ] Images have alt text
 - [ ] URL slug optimized
 
 **Quality**:
 - [ ] Factually accurate
-- [ ] Sources cited
+- [ ] Sources cited for statistics
 - [ ] No broken links
-- [ ] Provides genuine value
+- [ ] Provides genuine value to security decision-makers
 - [ ] Ready for publication
 
 ---
-
-## Updates & Maintenance
-
-**Style Guide Version**: 1.0
-**Last Updated**: [Date]
-**Next Review**: [Date]
-
-This style guide is a living document. Update as Castos brand and voice evolve.
 
 **Questions or Additions?**
 If you encounter a style question not covered here, make a decision, document it, and add it to this guide for future reference.
